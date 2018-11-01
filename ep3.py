@@ -4,7 +4,6 @@ __author__ = "piquesel"
 
 import pygame
 import math
-import numpy as np
 
 pygame.init()
 
