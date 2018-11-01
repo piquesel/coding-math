@@ -1,3 +1,5 @@
+# Coding Math Episode 1
+# Display Random lines on the screen 
 __author__ = "piquesel"
 
 import pygame
