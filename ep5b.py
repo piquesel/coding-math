@@ -1,3 +1,6 @@
+# Coding Math Episode 5b
+# Draw a moving arrow whose head is always following the position of the mouse
+# pointer
 import pygame
 import math
 
